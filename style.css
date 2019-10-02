@@ -1,0 +1,24 @@
+#container{
+    width:      1200px;
+    margin:     auto;
+    background: gray;
+}
+#nav{
+  width:        25%;
+  float:        left;
+  background:   blue;
+  text-align:   center;
+}
+#header{
+  width:        50%;
+  float:        left;
+  background:   orange;
+  text-align:   center;
+}
+#blackline{
+  width:        100%;
+  background:   black;
+}
+#ad{
+
+}
