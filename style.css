@@ -1,24 +1,36 @@
 #container{
     width:      1200px;
     margin:     auto;
-    background: gray;
 }
 #nav{
-  width:        25%;
+  width:        20%;
   float:        left;
   background:   blue;
   text-align:   center;
+  padding:      1%;
+  margin:       1.5%;
 }
 #header{
   width:        50%;
+  height:       80px;
   float:        left;
   background:   orange;
   text-align:   center;
+  margin-bottom: 5px;
 }
 #blackline{
   width:        100%;
   background:   black;
+  clear:        both;
+  margin-bottom:5px;
 }
 #ad{
-
+  float:        left;
+  width:        30%;
+  background:   red;
+}
+#content{
+  float:        left;
+  width:        40%;
+  background:   magenta;
 }
