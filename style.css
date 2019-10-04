@@ -4,7 +4,6 @@
 }
 #nav{
   width:        20%;
-  float:        left;
   background:   blue;
   text-align:   center;
   padding:      1%;
@@ -24,12 +23,10 @@
   margin-bottom:5px;
 }
 #ad{
-  float:        left;
   width:        30%;
   background:   red;
 }
 #content{
-  float:        left;
   width:        40%;
   background:   magenta;
 }
