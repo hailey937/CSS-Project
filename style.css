@@ -41,7 +41,8 @@
   background:   red;
   text-align:   center;
   padding:      1%;
-  margin:       auto;
+  margin-left:  25%;
+  float:        left;
 }
 #image3{
   width:        15%;
