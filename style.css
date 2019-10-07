@@ -1,32 +1,52 @@
 #container{
-    width:      1200px;
+    width:      1400px;
     margin:     auto;
-}
-#nav{
-  width:        20%;
-  background:   blue;
-  text-align:   center;
-  padding:      1%;
-  margin:       1.5%;
+    background: gray;
 }
 #header{
   width:        20%;
-  height:       80px;
+  height:       75px;
   background:   orange;
   text-align:   center;
-  margin:auto;
+  margin:       auto;
 }
-#blackline{
-  width:        100%;
-  background:   black;
+#nav{
+  width:        98%;
+  height:       20px;
+  background:   pink;
   clear:        both;
-  margin-bottom:5px;
-}
-#ad{
-  width:        30%;
-  background:   red;
+  text-align:   center;
+  padding:      1%;
 }
 #content{
-  width:        40%;
+  width:        98%;
   background:   magenta;
+  clear:        both;
+  text-align:   center;
+  margin:       auto;
+  padding:      1%;
+}
+#image1{
+  width:        15%;
+  height:       30px;
+  background:   red;
+  text-align:   center;
+  padding:      1%;
+  float:        left;
+}
+#image2{
+  width:        15%;
+  height:       30px;
+  background:   red;
+  text-align:   center;
+  padding:      1%;
+  margin:       auto;
+}
+#image3{
+  width:        15%;
+  height:       30px;
+  background:   red;
+  text-align:   center;
+  padding:      1%;
+  float:        right;
 }
