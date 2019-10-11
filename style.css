@@ -1,14 +1,17 @@
+body{
+  background-color: gray;
+}
+
 #container{
-    width:      1400px;
+    width:      1900x;
+    height:     933px;
     margin:     auto;
+    padding:    10px;
+    background-color: lavender;
 }
 #header{
-  width:        20%;
-  height:       40px;
-  background:   orange;
-  text-align:   center;
+  width:        100%;;
   margin:       auto;
-  padding:      1%;
 }
 #nav{
   width:        98%;
@@ -17,6 +20,7 @@
   clear:        both;
   text-align:   center;
   padding:      1%;
+
 }
 #content{
   width:        98%;
@@ -27,7 +31,7 @@
   padding:      1%;
 }
 #image1{
-  width:        15%;
+  width:        20%;
   height:       30px;
   background:   red;
   text-align:   center;
@@ -35,16 +39,16 @@
   float:        left;
 }
 #image2{
-  width:        15%;
+  width:        20%;
   height:       30px;
   background:   red;
   text-align:   center;
   padding:      1%;
-  margin-left:  25%;
+  margin-left:  17%;
   float:        left;
 }
 #image3{
-  width:        15%;
+  width:        20%;
   height:       30px;
   background:   red;
   text-align:   center;
@@ -54,7 +58,7 @@
 
 ul{
   margin:          0;
-  padding:         0;
+  padding-left:    700px;
   overflow:        hidden;
   list-style-type: none;
 }
