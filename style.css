@@ -3,14 +3,14 @@ body{
 }
 
 #container{
-    width:      1900x;
-    height:     933px;
+    width:      1870px;
+    height:     1153px;
     margin:     auto;
-    padding:    10px;
+    padding:    6px;
     background-color: lavender;
 }
 #header{
-  width:        100%;;
+  width:        98%;
   margin:       auto;
 }
 #nav{
@@ -20,45 +20,26 @@ body{
   clear:        both;
   text-align:   center;
   padding:      1%;
+  font-size:    18px;
 
 }
 #content{
   width:        98%;
-  background:   magenta;
   clear:        both;
   text-align:   center;
   margin:       auto;
   padding:      1%;
+  font-size:    18px;
 }
 #image1{
   width:        20%;
-  height:       30px;
-  background:   red;
-  text-align:   center;
-  padding:      1%;
+  height:       580px;
   float:        left;
-}
-#image2{
-  width:        20%;
-  height:       30px;
-  background:   red;
-  text-align:   center;
-  padding:      1%;
-  margin-left:  17%;
-  float:        left;
-}
-#image3{
-  width:        20%;
-  height:       30px;
-  background:   red;
-  text-align:   center;
-  padding:      1%;
-  float:        right;
 }
 
 ul{
   margin:          0;
-  padding-left:    700px;
+  padding-left:    720px;
   overflow:        hidden;
   list-style-type: none;
 }
@@ -70,28 +51,14 @@ li{
 }
 
 li a{
-  text-decoration: none;
+  text-decoration: underline;
   color:           black;
   text-align:      center;
   margin:          auto;
 
 }
 
-.dropdown{
-  position:        relative;
-  display:         inline-block;
-}
-
-.drop-content{
-  display:         none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
-  z-index: 1;
-}
-
-.dropdown:hover .drop-content{
-  display:         block;
+a:hover {
+  background-color: none;
+  color: blue;
 }
