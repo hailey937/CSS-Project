@@ -1,5 +1,5 @@
 body{
-  background-color: gray;
+  background-color: #808080;
 }
 
 #container{
@@ -7,7 +7,7 @@ body{
     height:     1153px;
     margin:     auto;
     padding:    6px;
-    background-color: lavender;
+    background-color: #E6E6FA;
 }
 #header{
   width:        98%;
@@ -16,7 +16,7 @@ body{
 #nav{
   width:        98%;
   height:       20px;
-  background:   pink;
+  background:   #FFB7C1;
   clear:        both;
   text-align:   center;
   padding:      1%;
