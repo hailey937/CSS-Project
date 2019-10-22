@@ -3,8 +3,8 @@ body{
 }
 
 #container{
-    width:      1870px;
-    height:     1153px;
+    width:      1873px;
+    height:     1165px;
     margin:     auto;
     padding:    6px;
     background-color: #E6E6FA;
@@ -35,6 +35,11 @@ body{
   width:        20%;
   height:       580px;
   float:        left;
+}
+
+img {
+  border-radius: 10px;
+  border: 3px solid black;
 }
 
 ul{
