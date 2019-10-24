@@ -33,14 +33,29 @@ body{
   font-size:    18px;
 }
 #image1{
-  width:        20%;
-  height:       580px;
+  width:        500px;
+  height:       333px;
   float:        left;
+  background-image: url(Images/Ben.jpg);
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+div#image1 span{
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  display: block;
+  margin-top: 25%;
+  background-color: white;
+  padding: 5px;
+
 }
 
 img {
   border-radius: 10px;
-  border: 3px solid black;
 }
 
 ul{
