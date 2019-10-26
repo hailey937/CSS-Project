@@ -33,12 +33,6 @@ body{
   font-size:    18px;
 }
 
-#image1{
-  width:        20%;
-  height:       500px;
-  float:        left;
-}
-
 img {
   border-radius: 10px;
   border: 3px solid black;
