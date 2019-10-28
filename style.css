@@ -9,10 +9,12 @@ body{
     padding:    6px;
     background-color: #E6E6FA;
 }
+
 #header{
   width:        98%;
   margin:       auto;
 }
+
 #nav{
   width:        98%;
   height:       20px;
@@ -23,6 +25,7 @@ body{
   font-size:    18px;
 
 }
+
 #content{
   width:        98%;
   clear:        both;
