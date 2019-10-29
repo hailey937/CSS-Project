@@ -11,8 +11,8 @@ body{
 }
 
 #header{
-  width:        98%;
-  margin:       auto;
+  width:        100%;
+  text-align:   center;
 }
 
 #nav{
